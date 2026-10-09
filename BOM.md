@@ -22,7 +22,7 @@
 | [151051RS11000](https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/151051RS11000/4490012?_gl=1*ncvr20*_up*MQ..&gclid=CjwKCAjwoaLWBhAWEiwAnyitu0i1tCfDmVr9VDutt4Gkvo3FCKhHr9nWDfMPiLpx9b384sK-8WoYcxoCWCEQAvD_BwE&gclsrc=aw.ds&gbraid=0AAAAADrbLliEqx9y_sLXUkpOd8AUXBw3y) | show when charging | 1 | $0.16 | $0.16 | [Digikey](https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/151051RS11000/4490012?_gl=1*ncvr20*_up*MQ..&gclid=CjwKCAjwoaLWBhAWEiwAnyitu0i1tCfDmVr9VDutt4Gkvo3FCKhHr9nWDfMPiLpx9b384sK-8WoYcxoCWCEQAvD_BwE&gclsrc=aw.ds&gbraid=0AAAAADrbLliEqx9y_sLXUkpOd8AUXBw3y) |
 | [1050-Piece Metal Film Resistor Kit](https://eyJ2IjoiMSJ9.0xH884uSwvSgSZJz8WkBz_rPALH_ZUMit2RRhmGZx3HwyFtJRN7LANv3smHJ27Lqvg5Ew7uLQGLoyz6cr58XreThxjq9RhAJvGYlCF3fpBk0tT8438QQSPnpuvFTm) | resist overflow current and regulate voltage | 1 | $5.49 | $5.49 | [Amazon](https://eyJ2IjoiMSJ9.0xH884uSwvSgSZJz8WkBz_rPALH_ZUMit2RRhmGZx3HwyFtJRN7LANv3smHJ27Lqvg5Ew7uLQGLoyz6cr58XreThxjq9RhAJvGYlCF3fpBk0tT8438QQSPnpuvFTm) |
 | **Parts subtotal** | — | — | — | **$18.75** | — |
-| **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$18.75** | — |
+| **Tax & shipping** | — | — | — | **$9.30** | — |
+| **Total** | — | — | — | **$28.05** | — |
 
-$11.25 left of the tier's funding.
+$1.95 left of the tier's funding.
