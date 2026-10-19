@@ -4,7 +4,7 @@
 <!-- Generated: 2026-10-09T16:13:23.274Z -->
 
 > [!NOTE]
-> This devlog is mirrored from [Half Life](https://halflife.hackclub.com). Editing it here will not change the platform's copy, and the next sync overwrites this file.
+> This devlog is mirrored from [Half Life](https://halflife.hackclub.com) – [open the project](https://halflife.hackclub.com/projects/cmuvubioi01e201os09oiegrl). Editing it here will not change the platform's copy, and the next sync overwrites this file.
 
 > A circuit board that controls 3 motors can detect resistance on them, power a pump, record using a camera, and send them to a screen for a later week as part of a larger project I'm working on called the Spyder
 
@@ -17,7 +17,7 @@
 1. [2026-10-06 – I first learned how to download and use KiCad through numerous videos. I then sketched out a basic idea of what would need to be controlled by the circuit board and used AI to help me find the names o](#2026-10-06-i-first-learned-how-to-download-and-use-kicad-thr)
 2. [2026-10-07 – Started development on a rechargeable battery for pcb by using a tutorial but was quickly cut short halfway through because i had to go eat dinner. I also did further research on what symbols actually](#2026-10-07-started-development-on-a-rechargeable-battery-for)
 3. [2026-10-07 – I watch a video on how to make a rechargeable battery but in that process i had to learn how to make custom symbols which i then begin to begin making and cleaning up my schematic and achieving the en](#2026-10-07-i-watch-a-video-on-how-to-make-a-rechargeable-bat)
-4. [2026-10-09 – Work session](#2026-10-09-work-session)
+4. [2026-10-09 – I converted the PCB schematic to a PCB layout and did all the routing, as well as figured out how the routing worked in KiCad. I struggled with figuring out how to route things without being able to c](#2026-10-09-i-converted-the-pcb-schematic-to-a-pcb-layout-and)
 5. [2026-10-09 – Work session](#2026-10-09-work-session)
 
 ## Design
@@ -50,9 +50,11 @@ I watch a video on how to make a rechargeable battery but in that process i had 
 
 [Timelapse](https://lookout.hackclub.com/api/media/cc8d1fe7-dd1c-4f7c-8ec4-6565cd681974/video.mp4)
 
-### 2026-10-09 – Work session
+### 2026-10-09 – I converted the PCB schematic to a PCB layout and did all the routing, as well as figured out how the routing worked in KiCad. I struggled with figuring out how to route things without being able to c
 
 **3.52h**
+
+I converted the PCB schematic to a PCB layout and did all the routing, as well as figured out how the routing worked in KiCad. I struggled with figuring out how to route things without being able to cross wires, but I was happy with the end result, as most things were wired.
 
 [Timelapse](https://lookout.hackclub.com/api/media/94e7b6d9-ca8c-4eac-ba5c-5fbee87e2c80/video.mp4)
 
