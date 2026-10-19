@@ -18,7 +18,7 @@
 2. [2026-10-07 – Started development on a rechargeable battery for pcb by using a tutorial but was quickly cut short halfway through because i had to go eat dinner. I also did further research on what symbols actually](#2026-10-07-started-development-on-a-rechargeable-battery-for)
 3. [2026-10-07 – I watch a video on how to make a rechargeable battery but in that process i had to learn how to make custom symbols which i then begin to begin making and cleaning up my schematic and achieving the en](#2026-10-07-i-watch-a-video-on-how-to-make-a-rechargeable-bat)
 4. [2026-10-09 – I converted the PCB schematic to a PCB layout and did all the routing, as well as figured out how the routing worked in KiCad. I struggled with figuring out how to route things without being able to c](#2026-10-09-i-converted-the-pcb-schematic-to-a-pcb-layout-and)
-5. [2026-10-09 – Work session](#2026-10-09-work-session)
+5. [2026-10-09 – I finished routing my PCB, and I think I got all the rat's nests out. I struggled with setting up the ground for the ESP32 dev module. Everything should be wired correctly now that it appears there ar](#2026-10-09-i-finished-routing-my-pcb-and-i-think-i-got-all-t)
 
 ## Design
 
@@ -58,8 +58,10 @@ I converted the PCB schematic to a PCB layout and did all the routing, as well a
 
 [Timelapse](https://lookout.hackclub.com/api/media/94e7b6d9-ca8c-4eac-ba5c-5fbee87e2c80/video.mp4)
 
-### 2026-10-09 – Work session
+### 2026-10-09 – I finished routing my PCB, and I think I got all the rat's nests out. I struggled with setting up the ground for the ESP32 dev module. Everything should be wired correctly now that it appears there ar
 
 **1.07h**
+
+I finished routing my PCB, and I think I got all the rat's nests out. I struggled with setting up the ground for the ESP32 dev module. Everything should be wired correctly now that it appears there are no rat's nests.
 
 [Timelapse](https://lookout.hackclub.com/api/media/4ad4158a-639d-4f48-9529-0e0fbd67d82f/video.mp4)
