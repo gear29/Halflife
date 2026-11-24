@@ -19,6 +19,9 @@ BAG-O-CAPACITORS
 IC REG BOOST 5V 2.5A SOT23-5
 RF TXRX MOD ISM>1GHZ PCB THTH
 RF TXRX MODULE BT PCB TRACE SMD
+3d print filliment
+
+https://cad.onshape.com/documents/f11ae95fae93422fbdf0c68c/w/68c1e627ac382633cd5eec16/e/110cf14e3648d96f9525c47c 
 
 CAD
 This is a gear train that can hold four suction cups and will hold them and flip them in a way such that when it rotates 180 deg if one pair of the suction cups is secured and is the point of rotation then when the it is rotated the other pair will be able to end with contact points on the surface it would stick to.
